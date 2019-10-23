@@ -1,0 +1,14 @@
+C:\Users\Vaz\source\repos\Teste.ITIX\Teste.ITIX\bin\Debug\netcoreapp2.1\Teste.ITIX.deps.json
+C:\Users\Vaz\source\repos\Teste.ITIX\Teste.ITIX\bin\Debug\netcoreapp2.1\Teste.ITIX.runtimeconfig.json
+C:\Users\Vaz\source\repos\Teste.ITIX\Teste.ITIX\bin\Debug\netcoreapp2.1\Teste.ITIX.runtimeconfig.dev.json
+C:\Users\Vaz\source\repos\Teste.ITIX\Teste.ITIX\bin\Debug\netcoreapp2.1\Teste.ITIX.dll
+C:\Users\Vaz\source\repos\Teste.ITIX\Teste.ITIX\obj\Debug\netcoreapp2.1\Teste.ITIX.csprojAssemblyReference.cache
+C:\Users\Vaz\source\repos\Teste.ITIX\Teste.ITIX\obj\Debug\netcoreapp2.1\Teste.ITIX.csproj.CoreCompileInputs.cache
+C:\Users\Vaz\source\repos\Teste.ITIX\Teste.ITIX\obj\Debug\netcoreapp2.1\Teste.ITIX.RazorAssemblyInfo.cache
+C:\Users\Vaz\source\repos\Teste.ITIX\Teste.ITIX\obj\Debug\netcoreapp2.1\Teste.ITIX.RazorAssemblyInfo.cs
+C:\Users\Vaz\source\repos\Teste.ITIX\Teste.ITIX\obj\Debug\netcoreapp2.1\Teste.ITIX.AssemblyInfoInputs.cache
+C:\Users\Vaz\source\repos\Teste.ITIX\Teste.ITIX\obj\Debug\netcoreapp2.1\Teste.ITIX.AssemblyInfo.cs
+C:\Users\Vaz\source\repos\Teste.ITIX\Teste.ITIX\obj\Debug\netcoreapp2.1\Teste.ITIX.RazorTargetAssemblyInfo.cache
+C:\Users\Vaz\source\repos\Teste.ITIX\Teste.ITIX\bin\Debug\netcoreapp2.1\Teste.ITIX.pdb
+C:\Users\Vaz\source\repos\Teste.ITIX\Teste.ITIX\obj\Debug\netcoreapp2.1\Teste.ITIX.dll
+C:\Users\Vaz\source\repos\Teste.ITIX\Teste.ITIX\obj\Debug\netcoreapp2.1\Teste.ITIX.pdb

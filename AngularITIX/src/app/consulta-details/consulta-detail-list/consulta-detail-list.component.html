@@ -1,0 +1,24 @@
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th style="width: 5px;;">Código</th>
+            <th>Nome</th>
+            <th>Nascimento</th>
+            <th>Data Inicial</th>
+            <th>Data Final</th>
+            <th>Observação</th>
+            <th>E</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let cd of service.list" (click)="populateForm(cd)">
+            <td (click)="populateForm(cd)">{{cd.Id}}</td>
+            <td (click)="populateForm(cd)">{{cd.Nome}}</td>
+            <td (click)="populateForm(cd)">{{cd.DataNascimento}}</td>
+            <td (click)="populateForm(cd)">{{cd.DataHoraInicial}}</td>
+            <td (click)="populateForm(cd)">{{cd.DataHoraFinal}}</td>
+            <td (click)="populateForm(cd)">{{cd.Obs}}</td>
+            <td (click)="onDelete(cd.Id)"><i class="far fa-trash-alt fa-sm text-danger"></i></td>
+        </tr>
+    </tbody>
+</table>
